@@ -63,11 +63,11 @@ Nakon završetka treniranja ispisuju se vrijednosti Recall@20, NDCG@20 te epoha 
 
 ## Autor
 
-Ime i prezime: Marija Kurić
-Studijski smjer: Informatika
-Kolegij: Programsko inženjerstvo
-Znanstveno područje: Društvene znanosti
-Znanstveno polje: Informacijske i komunikacijske znanosti
-Znanstvena grana: Informacijski sustavi i informatologija
-Mentor: izv. prof. dr. sc. Nikola Tanković
+* Ime i prezime: Marija Kurić
+* Studijski smjer: Informatika
+* Kolegij: Programsko inženjerstvo
+* Znanstveno područje: Društvene znanosti
+* Znanstveno polje: Informacijske i komunikacijske znanosti
+* Znanstvena grana: Informacijski sustavi i informatologija
+* Mentor: izv. prof. dr. sc. Nikola Tanković
 
